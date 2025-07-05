@@ -33,19 +33,19 @@ OSIModelApp/ ├── application.png ├── data_link.png ├── network
    ```
 2. **Ensure images exist for each OSI layer (.png format, named appropriately)**
     - Run the application:
-      ```bash      
-      python osi_model.py
-      ```
+   ```bash      
+   python osi_model.py
+   ```
 
 ## 🔍 OSI Layer Guide
 Each tab features:- A themed icon or visual
 - A plain-English summary of the layer's responsibilities
 - Tips on configuration and troubleshooting techniques
-- 
+  
 The visualization tab displays:- A vertical layer stack
 - Arrows indicating data flow
 - A bouncing green packet to demonstrate live traversal
-- 
+  
 ## 📜 License
 This project is licensed under the MIT License.🙌 
 
